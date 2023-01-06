@@ -1,0 +1,15 @@
+{
+  "name": "project-configuration",
+  "version": "1.0.0",
+  "description": "Basic configuration for React TS project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cmanka/Project-Configuration.git"
+  },
+  "author": "Cmanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cmanka/Project-Configuration/issues"
+  },
+  "homepage": "https://github.com/Cmanka/Project-Configuration#readme",
+}
